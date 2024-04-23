@@ -157,10 +157,3 @@ form button {
 form button:hover {
     background-color: #ff9800;
 }
-::-webkit-scrollbar{
-    width: 11px;
-}
-::-webkit-scrollbar-thumb{
-    background-color:  #3498db;
-    border-radius: 25px;
-}
